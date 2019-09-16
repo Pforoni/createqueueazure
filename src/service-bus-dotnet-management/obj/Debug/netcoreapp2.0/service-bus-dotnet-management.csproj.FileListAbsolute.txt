@@ -10,3 +10,4 @@ C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-ma
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.AssemblyInfo.cs
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.dll
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.pdb
+C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.csprojAssemblyReference.cache
