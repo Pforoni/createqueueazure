@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A104B4F4-5881-4869-8AED-10AF62F2A1FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1C73CD4-F2A6-44CF-A3B8-B7F887B464C5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "service-bus-dotnet-management", "src\service-bus-dotnet-management\service-bus-dotnet-management.csproj", "{6ED30803-D9DD-4679-BA46-12F110200639}"
 EndProject
@@ -25,5 +28,8 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6ED30803-D9DD-4679-BA46-12F110200639} = {A104B4F4-5881-4869-8AED-10AF62F2A1FF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74BFBD8-22FB-410E-A094-9E29C1F57EFB}
 	EndGlobalSection
 EndGlobal
