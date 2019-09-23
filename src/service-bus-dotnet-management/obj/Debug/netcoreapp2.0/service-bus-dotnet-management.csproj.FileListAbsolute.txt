@@ -1,13 +1,12 @@
+C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.csproj.CoreCompileInputs.cache
+C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.AssemblyInfoInputs.cache
+C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.AssemblyInfo.cs
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\bin\Debug\netcoreapp2.0\appsettings.json
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\bin\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.deps.json
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\bin\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.runtimeconfig.json
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\bin\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.runtimeconfig.dev.json
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\bin\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.dll
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\bin\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.pdb
-C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.csproj.CoreCompileInputs.cache
-C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
-C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.AssemblyInfoInputs.cache
-C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.AssemblyInfo.cs
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.dll
 C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\AzureServiceBusDotNetManagement.pdb
-C:\Uteis\Projetos\service-bus-dotnet-management-master\src\service-bus-dotnet-management\obj\Debug\netcoreapp2.0\service-bus-dotnet-management.csprojAssemblyReference.cache
